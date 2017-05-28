@@ -15,3 +15,9 @@ class TestMathOP(object):
         """
         """
         assert math_op.mul(10, 20) == 200
+
+
+    def test_mul_op():
+        """
+        """
+        assert math_op.mul(10, 20) == 300
