@@ -4,4 +4,4 @@ before_install:
   - apt-get install python-pytest, python-setuptools
 
 install:
-  -python test_math_op.py
+  -python test_math.py
